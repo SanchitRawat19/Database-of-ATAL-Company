@@ -68,7 +68,7 @@ class P : public project
 
 int main ()
 {
-    cout<<"\t\t\tDATABASE OF ABC CONSTRUCTION COMPANY\n\n";
+    cout<<"\t\t\tDATABASE OF ATAL CONSTRUCTION COMPANY\n\n";
     p[0].option();
 }
 
